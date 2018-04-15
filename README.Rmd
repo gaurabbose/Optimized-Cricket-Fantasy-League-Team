@@ -1,9 +1,4 @@
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Selecting An Optimal IPL Cricket Fantasy Team
 
 The objective of this predictive model is to predict the optimal IPL (Indian Premier League) Fantasy League Cricket Team. This is a simulated web game that allows individuals to form leagues with their family and friends, wherein each individual selects a team of players from the entire league and is scored based on their each of their players' performance. The winning team with the highest cumulative score by the end of the season gains fame, glory, and hopefully a predesignated pot of cash.
